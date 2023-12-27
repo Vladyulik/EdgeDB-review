@@ -18,7 +18,7 @@ EdgeDB виникла як open-source об'єктно-реляційна баз
 
 <table>
 <tr>
-<td> <img src="./images/EdgeDB_schema.png" alt="EdgeDB_schema.png" width="305" height="258"> </td>
+<td style="width: 90%; vertical-align: top"> <img src="./images/EdgeDB_schema.png" alt="EdgeDB_schema.png" width="610" height="516"> </td>
 <td>
 
 ```ts
