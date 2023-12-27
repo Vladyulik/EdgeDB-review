@@ -18,8 +18,8 @@ EdgeDB виникла як open-source об'єктно-реляційна баз
 
 <table>
 <tr>
-<td style="width: 50%"> <img src="./images/EdgeDB_schema.png" alt="EdgeDB_schema.png" width="550" height="465"> </td>
-<td style="width: 50%">
+<td> <img src="./images/EdgeDB_schema.png" alt="EdgeDB_schema.png" width="305" height="258"> </td>
+<td>
 
 ```ts
 module default {
@@ -50,8 +50,8 @@ module default {
 </td>
 </tr>
 <tr>
-<td style="width: 50%"> <p align="center"> EdgeDB схема </p> </td> 
-<td style="width: 50%"> <p align="center"> Код </p> </td>
+<td> <p align="center"> EdgeDB схема </p> </td> 
+<td> <p align="center"> Код </p> </td>
 </tr>
 </table>
 
