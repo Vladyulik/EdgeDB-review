@@ -1,0 +1,7 @@
+select Movie {
+  title,
+  actors: {
+   name
+  },
+  rating := math::mean(.reviews.score)
+} filter "Vladjubra" in .actors.name;
